@@ -1,0 +1,8 @@
+.closed{
+    cursor: pointer;
+}
+.manager_form{
+    position: absolute;
+    top:200px;
+    left:100px;
+}
